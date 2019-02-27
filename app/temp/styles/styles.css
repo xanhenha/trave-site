@@ -1,0 +1,10 @@
+* {
+    color: #fefefe;
+    padding: 0;
+    -webkit-columns: 300px 2;
+            columns: 300px 2;
+}
+
+.box a {
+        display: block;
+    }

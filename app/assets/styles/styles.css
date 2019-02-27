@@ -1,0 +1,13 @@
+$color: #fefefe;
+
+* {
+    color: $color;
+    padding: 0;
+    columns: 300px 2;
+}
+
+.box {
+    a {
+        display: block;
+    }
+}
